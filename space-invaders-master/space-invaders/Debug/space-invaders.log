@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(7): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(12): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(13): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(19): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(20): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(21): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersobjects.h(22): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\nikita\desktop\space-invaders\space-invaders\screen.h(12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\nikita\desktop\space-invaders\space-invaders\screen.h(13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\nikita\desktop\space-invaders\space-invaders\spaceinvadersscreens.h(146): warning C4305: инициализация: усечение из "double" в "const float"
+  game.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  game.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  space-invaders.vcxproj -> C:\Users\Nikita\Desktop\space-invaders\Debug\space-invaders.exe
